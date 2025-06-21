@@ -1,6 +1,6 @@
 {
     "id": "51b3f4a5-ee72-4980-abda-8d8fb67479be",
-    "scriptName": "包裹最新指示",
+    "scriptName": "【云瑾】包裹最新指示",
     "findRegex": "^([\\s\\S]*)$",
     "replaceString": "<user_input>\n$1\n</user_input>",
     "trimStrings": [],
