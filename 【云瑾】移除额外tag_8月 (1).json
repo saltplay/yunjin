@@ -1,7 +1,7 @@
 {
     "id": "d0939a86-4170-44d8-8968-b6148a5c2ed6",
-    "scriptName": "【云瑾】移除额外tag",
-    "findRegex": "/^[\\s\\S]*### 正文|(<!--[\\s\\S]*?-->\\s*)/g",
+    "scriptName": "【云瑾】移除额外tag_8月",
+    "findRegex": "/^[\\s\\S]*(### 正文|<\\/preparation>|<\\/thinking>\\s?)|(<!--[\\s\\S]*?-->\\s?)|<main_body>|<\\/main_body>/g",
     "replaceString": "",
     "trimStrings": [],
     "placement": [
