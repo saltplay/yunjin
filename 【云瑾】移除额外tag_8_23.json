@@ -1,7 +1,7 @@
 {
     "id": "d0939a86-4170-44d8-8968-b6148a5c2ed6",
-    "scriptName": "【云瑾】移除额外tag_8月",
-    "findRegex": "/^[\\s\\S]*(### 正文|<\\/preparation>|<\\/thinking>\\s?)|(<!--[\\s\\S]*?-->\\s?)|<main_body>|<\\/main_body>/g",
+    "scriptName": "【云瑾】移除额外tag_8.23",
+    "findRegex": "/^[\\s\\S]*?(\\s{2,}---\\s*|</thinking>|#+ 正式创作|<\\/preparation>)|(<!--[\\s\\S]*?-->\\s?)|<content>\\s*##[\\s\\S]*?---/g",
     "replaceString": "",
     "trimStrings": [],
     "placement": [
